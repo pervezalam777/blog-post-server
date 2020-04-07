@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "id": "1",
+      "title": "API POST",
+      "content": "Content of the post"
+    },
+    {
+      "title": "ES6 promise",
+      "content": "Testing one two three",
+      "id": "-jKrJip"
+    },
+    {
+      "title": "Test another",
+      "content": "Test something which has meaning",
+      "id": "6EtkHYk"
+    }
+  ]
+}
